@@ -3,7 +3,7 @@ import jav.util.Scanner;
 Author:Sarujan P,
 Contact:saru.contacts@gmail.com,
 File Name:count.java,
-Date:2021.03.22
+Date:2021.03.23
 */
 public class count{
 	private double value;
